@@ -1,0 +1,7 @@
+jenkins pass - 694664b0a0824fb7b5fcec5e03614534
+uname- kumarsai
+pass-kumarsai
+fullname-Yaragani Kumara Sai
+email- ykumarsai91215@gmail.com
+
+http://localhost:8181/
