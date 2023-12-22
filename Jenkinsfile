@@ -6,19 +6,9 @@ pipeline{
         echo " build the code successfully"
       }
     }
-    stage("build"){
-      steps{
-       javac Hello.java
-      }
-    }
     stage("Test stage"){
       steps{
         echo "tested the code successfully"
-      }
-    }
-    stage("Test"){
-      steps{
-       java Hello.java
       }
     }
     stage("Deploy"){
