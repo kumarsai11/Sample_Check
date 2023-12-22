@@ -17,4 +17,5 @@ pipeline{
       }
     }
   }
+  sh "java Hello.java"
 }
